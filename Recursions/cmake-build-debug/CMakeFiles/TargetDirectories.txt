@@ -1,0 +1,2 @@
+/home/rishav/Desktop/progs/C prog/Data struc/Recursions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rishav/Desktop/progs/C prog/Data struc/Recursions/cmake-build-debug/CMakeFiles/edit_cache.dir
